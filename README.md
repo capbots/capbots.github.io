@@ -1,2 +1,1 @@
 # capbots.github.io
-Homepage
